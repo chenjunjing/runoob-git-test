@@ -12,3 +12,6 @@ runoob test txt
 
 
 刚好我在本地也修改了这个文件
+
+
+git revert commit-id
